@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ua.edu.nubip.module2"},{"l":"ua.edu.nubip.module2.db"},{"l":"ua.edu.nubip.module2.io"},{"l":"ua.edu.nubip.module2.model"},{"l":"ua.edu.nubip.module2.service"},{"l":"ua.edu.nubip.module2.ui"}];updateSearchResults();
